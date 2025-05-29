@@ -3,3 +3,5 @@
 ### practice
 
 my git practice
+- Hi
+- senarios
