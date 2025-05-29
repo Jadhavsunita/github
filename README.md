@@ -4,7 +4,7 @@
 
 my git practice
 - Hi
-- senarios
+- Hello
 '''
 Print "Hello World"
 '''
